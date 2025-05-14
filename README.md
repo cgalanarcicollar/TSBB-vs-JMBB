@@ -18,4 +18,4 @@ It contains the R and Stan code for all relevant analyses in the work. Real data
   - A **two-stage approach for joint modeling** assuming a Beta-Binomial longitudinal component.
   
 - **Simulation study**: Assesses and compares the performance and bias of the different approaches under various scenarios.
-- - **Dynamic predictions**. The use of Bayesian approach allows us to perform dynamic predictions for new subjects.
+- **Dynamic predictions**. The use of Bayesian approach allows us to perform dynamic predictions for new subjects.
